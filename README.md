@@ -28,6 +28,7 @@ $ fast-cli init
     1) React
     2) Vue
     3) ES2015+
+    4) MicroApp
     Answer: ES2015+
 
 # 1. . Downloading template
