@@ -1,6 +1,6 @@
 {
   "name": "shuyun-fast-cli",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "数云平台版脚手架",
   "bin": {
     "fast-cli": "./bin/init.js"
