@@ -5,10 +5,10 @@
 ## Install
 ```bash
 # yarn
-$ yarn global add fast-cli
+$ yarn global add shuyun-fast-cli
 
 # npm
-$ npm install -g fast-cli
+$ npm install -g shuyun-fast-cli
 ```
 
 ## Usege
