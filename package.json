@@ -1,14 +1,14 @@
 {
-  "name": "fast-cli",
-  "version": "1.0.0",
-  "description": "",
+  "name": "shuyun-fast-cli",
+  "version": "1.0.1",
+  "description": "数云平台版脚手架",
   "bin": {
     "fast-cli": "./bin/init.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "shuyunfe",
   "license": "ISC",
   "dependencies": {
     "chalk": "^3.0.0",
