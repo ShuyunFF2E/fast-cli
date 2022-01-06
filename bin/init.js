@@ -1,8 +1,6 @@
-#! /usr/bin/env node 
+#! /usr/bin/env node
 
-const path = require('path')
-const fs = require('fs');
-
+const path = require('path');
 const program = require('commander');
 const chalk = require('chalk');
 const ora = require('ora');
@@ -42,10 +40,10 @@ program
 		Object.assign(config, {
 			...await baseTask(),
 			...await frameTask(),
-			// 
+			//
 			// ...await cssChoicesTask()
 		});
-		
+
 		let spinner = ora();
 
 		// downloading template
