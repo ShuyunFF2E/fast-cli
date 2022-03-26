@@ -14,8 +14,13 @@ $ npm install -g shuyun-fast-cli
 ## Usege
 
 ```bash
-# Initialize new project
 $ fast-cli init
+
+# install packages
+$ cd my-app && npm install
+
+# start
+$ npm start
 ```
 
 ## Examples
